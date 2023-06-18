@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## <center> Hi 👋, I'm **Krishna Agarwal** </center>
-### I am working as an Penetration tester, Bug Bounty hunter
+## **<center> Hi 👋, I'm Krishna Agarwal </center>**
+#### I am working as an Penetration tester, Bug Bounty hunter
 
 
 ### I’m From:
