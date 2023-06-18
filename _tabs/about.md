@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## <p style="text-align: center;"> Hi 👋, I'm Krishna Agarwal </p>
+### <center> Hi 👋, I'm Krishna Agarwal </center>
 ### I am working as an Penetration tester, Bug Bounty hunter
 
 
