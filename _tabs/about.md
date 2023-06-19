@@ -5,7 +5,7 @@ order: 4
 ---
 
 ## **<center> Hi 👋, I'm Krishna Agarwal </center>**
-#### I am working as an Penetration tester, Bug Bounty hunter
+#### <center> I am working as an Penetration tester, Bug Bounty hunter </center>
 
 
 ### I’m From:
@@ -36,6 +36,7 @@ order: 4
 
 ### Following CVE’s are published under my name:
 - **CVE-2023-3309**
+- **CVE-2023-3311**
 - **CVE-2023-XXXX**
 
 ### Profiles:
