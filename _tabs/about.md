@@ -35,7 +35,7 @@ order: 4
 - **Rust**
 
 ### Following CVE’s are published under my name:
-- **CVE-2023-XXXX**
+- **CVE-2023-3309**
 - **CVE-2023-XXXX**
 
 ### Profiles:
