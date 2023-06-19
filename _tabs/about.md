@@ -37,6 +37,7 @@ order: 4
 ### Following CVE’s are published under my name:
 - **CVE-2023-3309**
 - **CVE-2023-3311**
+- **CVE-2023-3318**
 - **CVE-2023-XXXX**
 
 ### Profiles:
