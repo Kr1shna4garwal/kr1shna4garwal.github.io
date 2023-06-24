@@ -31,14 +31,21 @@ order: 4
 
 ### I can code in:
 - **Bash**
-- **Python**
 - **Rust**
+- **Python**
+
+### Tools I made:
+- **Hacktrianged:** *A Simple Bash script to do reconaisance on the given list of domains or a single domain. useful for #bugbounty. Currently it is private.*
+- **Subzox:** *A Simple Bash script to do passive subdomain enumeration of a given list of domains or a single domain. It have a active mode also but by default it is OFF as active subdomain enumeration take a lot of resources and time. Useful for #bugbounty. Currently it is private.*
+- **R3g3x0r:** *A Rust language based tool that is capable of finding sensitive apikeys and secrets in the source code of url. It accept input file or a single url. Currently it is private.*
+- **Tr1bhuv4n:** *A Rust language based tool that is capable of finding uncached headers. It compares the normal GET request with the header added GET request on the basis of [status code, content-length, content-type, reflected value, etc] and then report the output, It accepts input file or a single url. Currently it is private.*
+
 
 ### Following CVE’s are published under my name:
 - **CVE-2023-3309**
 - **CVE-2023-3311**
 - **CVE-2023-3318**
-- **CVE-2023-XXXX**
+- **CVE-2023-3337**
 
 ### Profiles:
 - [**LinkedIn**](https://www.linkedin.com/in/kr1shna4garwal)
