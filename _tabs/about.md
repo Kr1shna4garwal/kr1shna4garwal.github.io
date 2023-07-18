@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+<base target="_blank"> 
 
 ## **<center> Hi 👋, I'm Krishna Agarwal </center>**
 #### <center> I am working as a Penetration tester, Bug Bounty hunter </center>
@@ -11,10 +12,10 @@ order: 4
 ### I’m From:
 **INDIA (BHARAT) 🇮🇳**
 
-### Currently I’m a:
-
+### I’m a:
 - **Penetration Tester**
 - **Bug Bounty Hunter**
+- **Ethical Hacker**
 
 ### I can do:
 - **Vulnerability Assessment**
@@ -22,11 +23,11 @@ order: 4
 - **Pentests (Web/Internal/External)**
 - **Bug bounties (Web/API/Android)**
 
-### I mostly do bug bounties on:
-- **HackerOne**
-- **Yogosha**
-- **Self Hosted**
-- **BugCrowd**
+### I'm part of:
+- **Detectify** as **Crowdsourced Security Researcher**
+- **HackerOne** as **Bug Bounty Hunter**
+- **Yogosha** as **Member of Strike Force**
+- **BugCrowd & Intigriti** as **Bug Bounty Hunter**
 
 ### I can code in:
 - **Bash**
@@ -56,11 +57,13 @@ order: 4
 
 ### Some more profiles:
 - [**Hackerone**](https://hackerone.com/kr1shna4garwal)
+- [**Detectify**](https://cs.detectify.com/profile/kr1shna4garwal)
 - [**Yogosha**](http://app.yogosha.com/r/kr1shna4garwal)
 - [**Bugcrowd**](https://bugcrowd.com/kr1shna4garwal)
 - [**TryHackMe**](https://tryhackme.com/p/Kr1shna4garwal)
 - [**HackTheBox**](https://app.hackthebox.com/profile/685392)
 - [**Huntr.dev**](https://huntr.dev/users/kr1shna4garwal)
+
 
 ### Favorite Quote:
 
