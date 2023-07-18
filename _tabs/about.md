@@ -49,10 +49,10 @@ order: 4
 
 ### Profiles:
 - [**LinkedIn**](https://www.linkedin.com/in/kr1shna4garwal)
-- [**Instagram**](https://www.instagram.com/krishnaagarwal_in)
+- [**Instagram**](https://www.instagram.com/krishnaagarwal_in) [Unactive]
 - [**Telegram**](https://telegram.me/kr1shna4garwal)
 - [**Twitter**](https://twitter.com/Kr1shna4garwal)
-- [**Facebook**](https://www.facebook.com/kr1shna4garwal)
+- [**Facebook**](https://www.facebook.com/kr1shna4garwal) [Unactive]
 - [**Github**](https://github.com/kr1shna4garwal)
 
 ### Some more profiles:
