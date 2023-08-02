@@ -6,7 +6,7 @@ order: 4
 <base target="_blank"> 
 
 ## **<center> Hi 👋, I'm Krishna Agarwal </center>**
-#### <center> I am working as a Penetration tester, Bug Bounty hunter </center>
+#### <center> an ethical hacker, bug bounty hunter, penetration tester, and security researcher. With a passion for Offensive Security and a keen eye for vulnerabilities, I actively contribute to multiple companies' bug bounty programs and conduct thorough penetration tests, fortifying their systems against potential threats. </center>
 
 
 ### I’m From:
@@ -84,4 +84,4 @@ order: 4
 looking for my resume? Contact me at any of the above profiles.
 
 ### Pentest contracts:
-For inquiries related to pentest, please <a href="mailto:kr1shna4garwal@gmail.com"> Click Here</a>
+ I'm open to new opportunities and collaborations, so don't hesitate to reach out if you need my expertise for pentests or any cybersecurity-related projects. I'm available at <a href="mailto:kr1shna4garwal@gmail.com">kr1shna4garwal@gmail.com</a>
