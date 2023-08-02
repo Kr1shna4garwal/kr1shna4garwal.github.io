@@ -17,6 +17,13 @@ order: 4
 - **Bug Bounty Hunter**
 - **Ethical Hacker**
 
+### I'm Certified:
+- **eLearn Security Junion Penetration Tester (eJPTv2)**
+- **Certified Network Security Practitioner (CNSP)**
+- **Certified Appsec Practitioner (CAP)**
+- **ISO/IEC 27001 Information Security Associate**
+- **Metaxone Certified Ethical Hacker (MCEH)**
+
 ### I can do:
 - **Vulnerability Assessment**
 - **Red Team Assessment**
