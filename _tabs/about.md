@@ -46,6 +46,7 @@ order: 4
 - **Subzox:** *A Simple Bash script to do passive subdomain enumeration of a given list of domains or a single domain. It has an active mode also but by default, it is OFF as active subdomain enumeration takes a lot of resources and time. Useful for #bugbounty. Currently, it is private.*
 - **R3g3x0r:** *A Rust language-based tool that is capable of finding sensitive API keys and secrets in the source code of URL. It accepts input files or a single URL. Currently, it is private.*
 - **Tr1bhuv4n:** *A Rust language-based tool that is capable of finding uncached headers. It compares the normal GET request with the header-added GET request on the basis of [status code, content length, content type, reflected value, etc] and then reports the output, It accepts an input file or a single URL. Currently, it is private.*
+- **XCar:** *A Simple Bash script Automation for CAN Hacking (Car Hacking). It can do Capture CAN Packets, Replay CAN Packets, CAN DOS, etc. I will keep updating the script whenever I learn something new. Currently, it is private.*
 
 
 ### Following CVEs are published under my name:
