@@ -6,10 +6,10 @@ order: 4
 <base target="_blank"> 
 
 ## **<center> Hello there 👋, I am Krishna Agarwal </center>**
-#### <center> a.k.a **Kr1shna4garwal** on Internet :) </center>
+#### <center> a.k.a Kr1shna4garwal on Internet :) </center>
 #### <center> An Penetration Tester, Bug Bounty Hunter, Security Researcher </center>
 
-### I’m From **INDIA (BHARAT) :in:**
+### I’m From **INDIA (BHARAT) :india:**
 
 ### Certifications: 
 - **eLearn Security Junion Penetration Tester (eJPTv2)**
