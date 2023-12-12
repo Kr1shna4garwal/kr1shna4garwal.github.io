@@ -6,7 +6,7 @@ tags: [achievements]
 ---
 
 
-**<center>Here you can find my Offensive Security related Certificates</center>**
+**Here you can find my Offensive Security related Certificates.**
 
 ---
 
