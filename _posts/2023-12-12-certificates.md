@@ -37,7 +37,7 @@ tags: [achievements]
 - Certification ID: 6850371
 - Link to verify: https://secops.group/certificate-validation/
 
-<img src="_media/5abffac9b7a9b3a32f40536d897718c5/KrishnaAgarwal-CertifiedAppSecPractitioner(CAP)-page-001.jpeg" width="65%" height="65%">
+<img src="/_media/5abffac9b7a9b3a32f40536d897718c5/KrishnaAgarwal-CertifiedAppSecPractitioner(CAP)-page-001.jpeg" width="65%" height="65%">
 
 # Certified Network Security Practitioner (CNSP)
 - Awarded on: 16 June, 2022
@@ -46,4 +46,4 @@ tags: [achievements]
 - Certification ID: 7561851
 - Link to verify: https://secops.group/certificate-validation/
 
-<img src="_media/5abffac9b7a9b3a32f40536d897718c5/KrishnaAgarwal-CertifiedNetworkSecurityPractitioner(CNSP)-page-001.jpeg" width="65%" height="65%">
+<img src="/_media/5abffac9b7a9b3a32f40536d897718c5/KrishnaAgarwal-CertifiedNetworkSecurityPractitioner(CNSP)-page-001.jpeg" width="65%" height="65%">
