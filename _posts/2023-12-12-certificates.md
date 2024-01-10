@@ -19,6 +19,16 @@ tags: [achievements]
 
 [![eJPTv2](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/81525127)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/81525127)
 
+# Certified Red Team Professional (CRTP)
+- Awarded on: 10 January, 2024
+- Expires on: 10 January, 2027
+- Skills: **enterprise security** | **active directory** | **red team** | **windows security**
+- Certification ID: ADLID8344
+- Link to verify: [https://www.credential.net/8767b062-46c5-41df-8f2b-9677f9807580](https://www.credential.net/8767b062-46c5-41df-8f2b-9677f9807580)
+
+[![CRTP](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/91726633)
+
+
 
 # INE Certified Cloud Associate (ICCA)
 - Awarded on: 15 August, 2023
