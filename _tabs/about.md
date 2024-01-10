@@ -29,6 +29,7 @@ order: 4
 - [**Github**](https://github.com/kr1shna4garwal)
 
 - [**Hackerone**](https://hackerone.com/kr1shna4garwal)
+- [**Intigriti**](https://app.intigriti.com/profile/kr1shna4garwal)
 - [**Detectify**](https://cs.detectify.com/profile/kr1shna4garwal)
 - [**Yogosha**](http://app.yogosha.com/r/kr1shna4garwal)
 - [**Bugcrowd**](https://bugcrowd.com/kr1shna4garwal)
