@@ -26,8 +26,7 @@ tags: [achievements]
 - Certification ID: ADLID8344
 - Link to verify: [https://www.credential.net/8767b062-46c5-41df-8f2b-9677f9807580](https://www.credential.net/8767b062-46c5-41df-8f2b-9677f9807580)
 
-[![CRTP](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/91726633)
-
+[![CRTP](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/91726633)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/91726633)
 
 
 # INE Certified Cloud Associate (ICCA)
