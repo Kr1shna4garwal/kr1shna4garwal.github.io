@@ -15,7 +15,9 @@ I don’t know for whom this write-up will be useful, maybe for bug hunters, dev
 
 Don’t worry if you don’t know anything about CVSS and CIA, You will get familiar with it after reading and calculating score for your vulnerabilities.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*7ucWpo7bhsWCqkyD20fBgg.png)
+
+[![223cb830575ea474e00481672469ca83](https://miro.medium.com/v2/resize:fit:1400/1*7ucWpo7bhsWCqkyD20fBgg.png)](https://miro.medium.com/v2/resize:fit:1400/1*7ucWpo7bhsWCqkyD20fBgg.png)
+
 
 First let’s start with CIA triad:
 ## What is CIA triad?
@@ -26,7 +28,7 @@ The CIA triad is a model for understanding and assessing the security of compute
 -   **Integrity** means that the data cannot be modified without authorization.
 -   **Availability** means that authorized parties can access the data when they need to.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*YcqlyDZg4armMfmqUbS1UA.png)
+[![8b8dcd6838669be13bfcba6b15e6d755](https://miro.medium.com/v2/resize:fit:1400/1*YcqlyDZg4armMfmqUbS1UA.png)](https://miro.medium.com/v2/resize:fit:1400/1*YcqlyDZg4armMfmqUbS1UA.png)
 
 Examples Of Confidentiality:
 
@@ -58,7 +60,9 @@ Availability is not effected, Because we are stopping any user to access that do
 
 Second Example scenario: You are found a  [directory transversal](https://portswigger.net/web-security/file-path-traversal). And you are able to access the internal files of a system. In this case, Confidentiality is effected because we are able to access internal system’s files in unauthorized way. If we escalate this directory transversal to  [Remote code execution](https://www.imperva.com/learn/application-security/remote-code-execution). Then all three components of CIA triad will be effected. Because we can access any files And we can delete or alter any files.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*9yPN9yuFVUisDV9ogaIEhg.png)
+[![223cb830575ea474e00481672469ca83](https://miro.medium.com/v2/resize:fit:1400/1*9yPN9yuFVUisDV9ogaIEhg.png)](https://miro.medium.com/v2/resize:fit:1400/1*9yPN9yuFVUisDV9ogaIEhg.png)
+
+
 
 ## What is CVSS 3.0 ?
 
@@ -165,7 +169,7 @@ Now, check all the fields according to your scenario.
 
 Below are the example CVSS 3.0 Of An Directory Transversal. Where I wasn’t able to get a Remote code execution. But i can read all the non-root files on the system.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*ZZVexDvRbADVRb_39_U22A.png)
+[![949cce86732abbf27ca9359228a7e9ec](https://miro.medium.com/v2/resize:fit:1400/1*ZZVexDvRbADVRb_39_U22A.png)](https://miro.medium.com/v2/resize:fit:1400/1*ZZVexDvRbADVRb_39_U22A.png)
 
 High (8.6)
 
@@ -173,7 +177,7 @@ As you can see the impact is  **high** and  **base score is 8.6.**
 
 Below is another example of CVE-2021–44228 (Log4J)’s CVSS 3.0 score. As provided on  [nvd.nist.gov](https://nvd.nist.gov/vuln/detail/CVE-2021-44228).
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*KXgQQO_-dV361j2nYyytVA.png)
+[![ded47e6db2786dac15981b2a862d1557](https://miro.medium.com/v2/resize:fit:1400/1*KXgQQO_-dV361j2nYyytVA.png)](https://miro.medium.com/v2/resize:fit:1400/1*KXgQQO_-dV361j2nYyytVA.png)
 
 Critical (10.0)
 
