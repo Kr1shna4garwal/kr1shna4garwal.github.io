@@ -12,7 +12,7 @@ order: 4
 ### From **INDIA (BHARAT) 🇮🇳🌏**
 
 ### Certifications: 
-- **eLearn Security Penetration Tester Extreme (eWPTXv2)**
+- **eLearn Security Web Application Penetration Tester Extreme (eWPTXv2)**
 - **eLearn Security Junior Penetration Tester (eJPTv2)**
 - **Certified Red Team Professional (CRTP)**
 - **INE Certified Cloud Associate (ICCA)**
