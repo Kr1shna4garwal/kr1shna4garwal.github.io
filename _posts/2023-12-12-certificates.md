@@ -6,7 +6,17 @@ tags: [achievements]
 ---
 
 
-**Here you can find my Offensive Security related Certificates.**
+**Here you can find my Penetration Testing related Certificates.**
+
+---
+# eLearn Security Web Application Penetration Tester Extreme (eWPTXv2)
+- Awarded on: 26 April, 2024
+- Expires on: Does not expire
+- Skills: **Penetration Testing Processes & Methodologies** | **Web Application Penetration Testing** | **Bypass Advanced XSS, SQLi, etc. Filters** | **Custom Exploits**
+- Certification ID: 102379851
+- Link to verify: https://certs.ine.com/dbaeafa3-0da0-41b8-bfcd-48a6c06dacdd
+
+[![eWPTXv2](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/102379851)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/102379851)
 
 ---
 
@@ -19,6 +29,8 @@ tags: [achievements]
 
 [![eJPTv2](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/81525127)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/81525127)
 
+---
+
 # Certified Red Team Professional (CRTP)
 - Awarded on: 10 January, 2024
 - Expires on: 10 January, 2027
@@ -28,6 +40,7 @@ tags: [achievements]
 
 [![CRTP](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/91726633)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/91726633)
 
+---
 
 # INE Certified Cloud Associate (ICCA)
 - Awarded on: 15 August, 2023
@@ -38,6 +51,7 @@ tags: [achievements]
 
 [![ICCA](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/81525175)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/81525175)
 
+---
 
 # Certified Appsec Practitioner (CAP)
 - Awarded on: 14 December, 2022
@@ -48,6 +62,8 @@ tags: [achievements]
 
 <img src="https://raw.githubusercontent.com/Kr1shna4garwal/kr1shna4garwal.github.io/main/_media/5abffac9b7a9b3a32f40536d897718c5/KrishnaAgarwal-CertifiedAppSecPractitioner(CAP)-page-001.jpeg" alt="CAP" width="65%" height="65%">
 
+---
+
 # Certified Network Security Practitioner (CNSP)
 - Awarded on: 16 June, 2022
 - Expires on: NA
@@ -56,3 +72,5 @@ tags: [achievements]
 - Link to verify: https://secops.group/certificate-validation/
 
 <img src="https://raw.githubusercontent.com/Kr1shna4garwal/kr1shna4garwal.github.io/main/_media/5abffac9b7a9b3a32f40536d897718c5/KrishnaAgarwal-CertifiedNetworkSecurityPractitioner(CNSP)-page-001.jpeg" alt="CNSP" width="65%" height="65%">
+
+---
