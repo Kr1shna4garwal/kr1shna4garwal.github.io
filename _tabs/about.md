@@ -6,7 +6,7 @@ order: 4
 <base target="_blank"> 
 
 ## **<center> Welcome 👋, I am Krishna Agarwal </center>**
-#### <center> A.K.A Kr1shna4garwal in the digital realm </center>
+#### <center> A.K.A Kr1shna4garwal in the world of Internet </center>
 #### <center> Penetration Tester, Bug Bounty Hunter, Security Researcher </center>
 
 ### From **INDIA (BHARAT) 🇮🇳🌏**
@@ -48,4 +48,4 @@ order: 4
 
 ### 💼 Open for Collaboration: I thrive on collaboration and am always on the lookout for exciting new ventures. Don't hesitate to drop me a line at <a href="mailto:kr1shna4garwal@proton.me">kr1shna4garwal@proton.me</a> to discuss potential projects or collaborations.
 
-Sharing something classified information? Let's keep it secure and private. Avoid social media platforms and ensure encryption by using PGP for email communication. You can access my public PGP key <a href="https://raw.githubusercontent.com/Kr1shna4garwal/kr1shna4garwal.github.io/main/_media/kr1shna4garwal.asc">Here</a>
+Sharing something classified information? Let's keep it secure and private. Avoid social media platforms and ensure encryption by using PGP for email communication. You can access my public PGP key <a href="https://raw.githubusercontent.com/Kr1shna4garwal/kr1shna4garwal.github.io/main/_media/kr1shna4garwal.asc">Here</a> or <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/FB86DAE10BC8DD07D740BD5C608C3DB96D44D211">Here</a>
