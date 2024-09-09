@@ -18,7 +18,6 @@ order: 4
 - **INE Certified Cloud Associate (ICCA)**
 - **Certified Network Security Practitioner (CNSP)**
 - **Certified Appsec Practitioner (CAP)**
-- **Metaxone Certified Ethical Hacker (MCEH)**
 
 ### CVEs: 
 - **CVE-2023-3309**
