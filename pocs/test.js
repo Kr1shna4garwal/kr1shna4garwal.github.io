@@ -3,7 +3,7 @@
     url: 'fkdofkdof',
     hackER: 'dosfjdofjd',
     headers: {
-      'Authorization': 'Bearer sk_test_FAKE_SECRET_TOKEN_ABC123',
+      'Authorization': 'Bearer PWNED!',
       'Content-Type': 'application/json'
     },
     body: JSON.stringify({
