@@ -5,6 +5,8 @@ order: 4
 ---
 <base target="_blank"> 
 
+> 🚧 (3rd June 2025): This site is **deprecated** and **no longer maintained**. For the latest updates, please check x.com/kr1shna4garwal 🚧
+
 ## **<center> Welcome 👋, I am Krishna Agarwal </center>**
 #### <center> A.K.A Kr1shna4garwal in the world of Internet </center>
 #### <center> Penetration Tester, Bug Bounty Hunter, Security Researcher </center>
